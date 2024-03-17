@@ -1,4 +1,4 @@
-# SQL--progamming
+# SQL progamming on SQLite
 
 # Ngôn ngữ SQL là gì ? 
 
